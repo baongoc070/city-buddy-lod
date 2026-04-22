@@ -25,7 +25,7 @@ Hiện nay, chất lượng sống ngày càng được người dân quan tâm 
 
 Dự án đề xuất xây dựng một bản đồ số giúp tổng hợp và đánh giá chất lượng sống theo từng khu vực, hỗ trợ người dùng đưa ra lựa chọn phù hợp và góp phần cải thiện quy hoạch đô thị. 
 
-# Đối tượng người dùng
+# Đối tượng sử dụng
 - Người dân: Tra cứu chỉ số đáng sống theo từng khu vực, tìm kiếm không gian xanh
 - Nhà quản lý: Theo dõi toàn diện về hạ tầng kỹ thuật và môi trường để điều phối
 - Nhà hoạch định: Phân tích tương quang giữa hạ tầng và chất lượng sống để ra quyết định quy hoạch bền vững
