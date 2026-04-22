@@ -32,10 +32,13 @@ Dự án đề xuất xây dựng một bản đồ số giúp tổng hợp và 
  # Nguồn dữ liệu & liên kết
  - Hạ tầng công cộng và tiện ích xung quanh (bệnh viện, trường học, cửa hàng tiện lợi, công viên, siêu thị,...). Sử dụng nguồn dữ liệu là OpenStreetMap Overpass.
  - Giao thông khu vực (mật độ giao thông, mức độ ùn tắc. Sử dụng GTFS datasets, các dịch vụ bản đồ)
- - Giá thành trung bình của khu vực
+ - Môi trường không khí (AQI, mức độ ô nhiễm). Nguồn sử dụng là OpenAQ và được mô tả bằng ontology SOSA/SSN
+ - Mật độ dân cư và giá thành trung bình của khu vực. Sử dụng nguồn Wikidata,...
 
 
 ## Tính năng chính 
+
+
 
 ### A. Ứng dụng dành cho người dùng
 
